@@ -1,16 +1,3 @@
 # lab-flask
+![image](https://github.com/user-attachments/assets/2458765a-fdd4-414a-8cd0-8993fb3585c3)
 
-<!-- ![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png) -->
-
-
-To run flask application 
-
-```
-python app.py
-```
-
-
-To access your flask application open new tab in and paste the url:
-```
-http://127.0.0.1:5000/predictdata
-```
